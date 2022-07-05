@@ -1,16 +1,11 @@
-# Data Projects
+# Tutorials
 
-This repo is a collection of all my projects that are related to data analysis, science or engenieering. I also keep it here the tutorials or guided projects I've completed in this field.
+This repo is a collection of tutorials, guided projects and samples projects I've completed.
 
 ***
 
-### Tutorials/Guided Projects:
+### Index:
 
 - [Matplotlib](matplotlib_tutorial.ipynb)
 - [NumPy](numpy_tutorial.ipynb)
 - [SciPy](scipy_tutorial.ipynb)
-
-### My Projects:
-
--
-
